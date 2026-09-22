@@ -1,0 +1,464 @@
+job_id,state,district,domain,nsqf_job_role,qp_code,job_type_available,local_demand_signal,active_msme_cluster,estimated_monthly_income_lpa
+JOB_83733AEF,Karnataka,Bengaluru Urban,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Self-Employment / Enterprise,Low,False,18.6
+JOB_1231B7FA,Karnataka,Bengaluru Urban,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Daily Wage,Medium,True,8.2
+JOB_BB6CEC8D,Karnataka,Bengaluru Urban,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Daily Wage,Medium,False,10.2
+JOB_BE32CE5E,Karnataka,Bengaluru Urban,Electrical & Solar,Wireman Helper,ELE/Q6001,Daily Wage,Medium,True,19.5
+JOB_04817052,Karnataka,Bengaluru Urban,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Daily Wage,Low,False,18.8
+JOB_0D9E08DC,Karnataka,Bengaluru Urban,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Self-Employment / Enterprise,Medium,False,12.0
+JOB_9B2F1D91,Karnataka,Bengaluru Urban,Plumbing & Water Works,Plumber General,PSC/Q0104,Self-Employment / Enterprise,High,True,20.7
+JOB_B51A1E96,Karnataka,Bengaluru Urban,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,Medium,False,11.0
+JOB_673AAEED,Karnataka,Bengaluru Urban,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Fixed Monthly,High,True,11.7
+JOB_75A3BFAB,Karnataka,Bengaluru Urban,Construction,Assistant Mason,CON/Q0101,Daily Wage,Medium,False,15.0
+JOB_44896014,Karnataka,Bengaluru Urban,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Medium,False,8.7
+JOB_C37A95A7,Karnataka,Bengaluru Urban,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,Medium,False,15.2
+JOB_A8D95656,Karnataka,Bengaluru Urban,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Self-Employment / Enterprise,Low,False,18.7
+JOB_67ECA22C,Karnataka,Bengaluru Urban,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Daily Wage,High,False,20.8
+JOB_A18D5675,Karnataka,Bengaluru Urban,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,Medium,True,18.3
+JOB_B32C9546,Karnataka,Bengaluru Urban,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Daily Wage,High,False,17.4
+JOB_C763CBCA,Karnataka,Bengaluru Urban,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Daily Wage,Medium,False,16.4
+JOB_C0984E88,Karnataka,Bengaluru Urban,Plumbing & Water Works,Plumber General,PSC/Q0104,Daily Wage,Medium,True,14.1
+JOB_E80DCA18,Karnataka,Bengaluru Urban,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Self-Employment / Enterprise,Medium,True,17.2
+JOB_93ACCF97,Karnataka,Bengaluru Urban,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Fixed Monthly,Medium,True,9.5
+JOB_493D426C,Karnataka,Bengaluru Urban,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,High,False,11.8
+JOB_33A995B7,Karnataka,Bengaluru Urban,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Fixed Monthly,Medium,True,21.5
+JOB_B6A613C1,Karnataka,Bengaluru Urban,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,High,False,19.4
+JOB_4D24254E,Karnataka,Bengaluru Rural,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Self-Employment / Enterprise,High,False,16.1
+JOB_BCEF46C3,Karnataka,Bengaluru Rural,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Medium,False,15.9
+JOB_3EAAC76B,Karnataka,Bengaluru Rural,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Fixed Monthly,Low,False,19.0
+JOB_ADD23DC2,Karnataka,Bengaluru Rural,Electrical & Solar,Wireman Helper,ELE/Q6001,Self-Employment / Enterprise,Low,False,24.1
+JOB_AF5A9F72,Karnataka,Bengaluru Rural,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Self-Employment / Enterprise,Low,False,23.2
+JOB_0389779A,Karnataka,Bengaluru Rural,Construction,Assistant Mason,CON/Q0101,Daily Wage,Medium,True,11.9
+JOB_BAE92104,Karnataka,Bengaluru Rural,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Self-Employment / Enterprise,Medium,False,9.8
+JOB_C121E4B1,Karnataka,Bengaluru Rural,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Fixed Monthly,Medium,False,19.9
+JOB_C67A6B2E,Karnataka,Bengaluru Rural,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Daily Wage,Medium,False,20.9
+JOB_DB2411A9,Karnataka,Bengaluru Rural,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,High,True,19.2
+JOB_C232BF8F,Karnataka,Bengaluru Rural,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Daily Wage,Low,True,12.3
+JOB_334D3333,Karnataka,Bengaluru Rural,Electrical & Solar,Wireman Helper,ELE/Q6001,Daily Wage,Medium,False,16.0
+JOB_F81A043E,Karnataka,Bengaluru Rural,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Fixed Monthly,Medium,False,17.0
+JOB_C302895B,Karnataka,Bengaluru Rural,Electrical & Solar,Wireman Helper,ELE/Q6001,Fixed Monthly,Medium,True,24.6
+JOB_5098D221,Karnataka,Bengaluru Rural,Plumbing & Water Works,Plumber General,PSC/Q0104,Fixed Monthly,High,True,20.9
+JOB_8FE993F6,Karnataka,Bengaluru Rural,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Self-Employment / Enterprise,Medium,False,24.1
+JOB_792C30A2,Karnataka,Bengaluru Rural,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Self-Employment / Enterprise,Low,False,14.1
+JOB_B4E2AE70,Karnataka,Bengaluru Rural,Plumbing & Water Works,Plumber General,PSC/Q0104,Fixed Monthly,High,True,23.9
+JOB_5992396D,Karnataka,Bengaluru Rural,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Daily Wage,Medium,False,14.9
+JOB_D544A43B,Karnataka,Bengaluru Rural,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Fixed Monthly,High,False,11.9
+JOB_B4266565,Karnataka,Ramanagara,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Self-Employment / Enterprise,High,False,20.8
+JOB_8A182764,Karnataka,Ramanagara,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Self-Employment / Enterprise,Medium,True,15.5
+JOB_04302979,Karnataka,Ramanagara,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Fixed Monthly,Low,False,22.8
+JOB_00592BAF,Karnataka,Ramanagara,Electrical & Solar,Wireman Helper,ELE/Q6001,Fixed Monthly,High,False,16.7
+JOB_96CE3B40,Karnataka,Ramanagara,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Fixed Monthly,High,False,11.5
+JOB_820F5BC1,Karnataka,Ramanagara,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Self-Employment / Enterprise,High,True,8.0
+JOB_54E9688E,Karnataka,Ramanagara,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Self-Employment / Enterprise,High,False,21.6
+JOB_D0EB13BA,Karnataka,Ramanagara,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Self-Employment / Enterprise,Low,False,13.2
+JOB_F41D3DE4,Karnataka,Ramanagara,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Self-Employment / Enterprise,Medium,False,20.4
+JOB_228773F0,Karnataka,Ramanagara,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Fixed Monthly,Medium,True,8.4
+JOB_8C7A35F3,Karnataka,Ramanagara,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Medium,True,21.2
+JOB_3DAB1999,Karnataka,Ramanagara,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Self-Employment / Enterprise,Medium,False,11.5
+JOB_7781F117,Karnataka,Ramanagara,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Self-Employment / Enterprise,Medium,False,8.3
+JOB_EE2FF635,Karnataka,Ramanagara,Plumbing & Water Works,Plumber General,PSC/Q0104,Fixed Monthly,High,False,20.7
+JOB_86B2EA33,Karnataka,Ramanagara,Electrical & Solar,Wireman Helper,ELE/Q6001,Fixed Monthly,Medium,True,8.7
+JOB_0FC18E5A,Karnataka,Ramanagara,Plumbing & Water Works,Plumber General,PSC/Q0104,Fixed Monthly,Low,True,19.1
+JOB_5F104ADE,Karnataka,Ramanagara,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,Medium,True,11.8
+JOB_7E02CDD4,Karnataka,Ramanagara,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Fixed Monthly,High,True,16.1
+JOB_8D6D91AA,Karnataka,Ramanagara,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Fixed Monthly,Medium,True,24.2
+JOB_40F8E1B5,Karnataka,Ramanagara,Plumbing & Water Works,Plumber General,PSC/Q0104,Fixed Monthly,High,False,18.9
+JOB_43A9EFC8,Karnataka,Ramanagara,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Daily Wage,Medium,True,12.8
+JOB_9EA58762,Karnataka,Ramanagara,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Self-Employment / Enterprise,High,True,19.0
+JOB_AC37AC78,Karnataka,Ramanagara,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Fixed Monthly,High,False,10.6
+JOB_B1ED0378,Karnataka,Ramanagara,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Daily Wage,Medium,True,18.1
+JOB_1B504332,Karnataka,Ramanagara,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,Medium,True,23.8
+JOB_7F5940BE,Karnataka,Ramanagara,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Daily Wage,Low,True,19.9
+JOB_7316C26B,Karnataka,Mysuru,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Self-Employment / Enterprise,Medium,True,13.0
+JOB_144C4127,Karnataka,Mysuru,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Fixed Monthly,Low,True,14.7
+JOB_2DAF3948,Karnataka,Mysuru,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Daily Wage,Low,True,9.3
+JOB_93323708,Karnataka,Mysuru,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Fixed Monthly,Low,True,12.2
+JOB_3CE1E5EE,Karnataka,Mysuru,Plumbing & Water Works,Plumber General,PSC/Q0104,Fixed Monthly,Medium,False,23.9
+JOB_9EE10BA1,Karnataka,Mysuru,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Fixed Monthly,Medium,True,9.5
+JOB_37616AC4,Karnataka,Mysuru,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Daily Wage,Low,False,19.3
+JOB_4CA28920,Karnataka,Mysuru,Plumbing & Water Works,Plumber General,PSC/Q0104,Self-Employment / Enterprise,High,False,10.8
+JOB_43181466,Karnataka,Mysuru,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Self-Employment / Enterprise,Medium,False,15.7
+JOB_3DF5FE5E,Karnataka,Mysuru,Construction,Assistant Mason,CON/Q0101,Self-Employment / Enterprise,Medium,True,18.6
+JOB_BF019B95,Karnataka,Mysuru,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Fixed Monthly,High,False,20.8
+JOB_8EFC9A3E,Karnataka,Mysuru,Construction,Assistant Mason,CON/Q0101,Daily Wage,Low,False,17.3
+JOB_945F6C9B,Karnataka,Mysuru,Construction,Assistant Mason,CON/Q0101,Self-Employment / Enterprise,Medium,False,22.0
+JOB_5FAB1322,Karnataka,Mysuru,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Fixed Monthly,Medium,False,23.2
+JOB_91073D8E,Karnataka,Mysuru,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Daily Wage,Medium,False,14.4
+JOB_2B86490C,Karnataka,Mysuru,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Self-Employment / Enterprise,Low,False,21.0
+JOB_A3D3BC98,Karnataka,Mysuru,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Daily Wage,Low,True,12.7
+JOB_E07F6E6A,Karnataka,Mysuru,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Daily Wage,High,False,21.9
+JOB_15E9A994,Karnataka,Mysuru,Plumbing & Water Works,Plumber General,PSC/Q0104,Self-Employment / Enterprise,Medium,True,22.6
+JOB_F0874635,Karnataka,Mysuru,Plumbing & Water Works,Plumber General,PSC/Q0104,Self-Employment / Enterprise,Medium,False,24.8
+JOB_4E649035,Karnataka,Mysuru,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,Medium,True,20.0
+JOB_D9438DE4,Karnataka,Mysuru,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Daily Wage,Medium,False,25.0
+JOB_D01A4FDB,Karnataka,Mysuru,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Fixed Monthly,High,True,13.4
+JOB_F75CF224,Karnataka,Mysuru,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Self-Employment / Enterprise,Medium,True,9.5
+JOB_9F92AC5C,Karnataka,Mysuru,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Self-Employment / Enterprise,Low,True,10.1
+JOB_E59F3D5F,Karnataka,Mysuru,Plumbing & Water Works,Plumber General,PSC/Q0104,Daily Wage,Low,False,17.8
+JOB_7892C08B,Karnataka,Mysuru,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Medium,False,20.0
+JOB_5CC36644,Karnataka,Mysuru,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Fixed Monthly,Medium,True,18.1
+JOB_6B50C73C,Karnataka,Mysuru,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Self-Employment / Enterprise,Medium,False,23.4
+JOB_E4419ADF,Karnataka,Mysuru,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Fixed Monthly,Medium,True,13.4
+JOB_5D9C5B19,Karnataka,Hubballi,Electrical & Solar,Wireman Helper,ELE/Q6001,Daily Wage,Medium,True,20.7
+JOB_0904A079,Karnataka,Hubballi,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Daily Wage,Medium,False,23.4
+JOB_7F30B310,Karnataka,Hubballi,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Daily Wage,Medium,False,23.6
+JOB_56932E5F,Karnataka,Hubballi,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Self-Employment / Enterprise,Medium,False,13.7
+JOB_95E7C05B,Karnataka,Hubballi,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Fixed Monthly,High,True,24.4
+JOB_CB710A85,Karnataka,Hubballi,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Daily Wage,Low,True,22.4
+JOB_A5C08156,Karnataka,Hubballi,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Self-Employment / Enterprise,Medium,False,24.2
+JOB_35546EB0,Karnataka,Hubballi,Construction,Assistant Mason,CON/Q0101,Fixed Monthly,Medium,True,22.5
+JOB_78ED3157,Karnataka,Hubballi,Electrical & Solar,Wireman Helper,ELE/Q6001,Fixed Monthly,Medium,True,9.9
+JOB_5E0BDE29,Karnataka,Hubballi,Electrical & Solar,Wireman Helper,ELE/Q6001,Self-Employment / Enterprise,High,True,13.5
+JOB_9ED01E8B,Karnataka,Hubballi,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Fixed Monthly,Medium,False,19.8
+JOB_AADCFC76,Karnataka,Hubballi,Construction,Assistant Mason,CON/Q0101,Daily Wage,Medium,False,20.3
+JOB_80DE2CBA,Karnataka,Hubballi,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Daily Wage,Medium,False,10.6
+JOB_71FAFF7B,Karnataka,Hubballi,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Fixed Monthly,Medium,True,8.1
+JOB_02055315,Karnataka,Hubballi,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Self-Employment / Enterprise,Medium,True,23.1
+JOB_60D02A27,Karnataka,Hubballi,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,Low,False,17.1
+JOB_5019A216,Karnataka,Hubballi,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Daily Wage,Medium,False,10.6
+JOB_D2BE9508,Karnataka,Hubballi,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Self-Employment / Enterprise,Medium,True,23.1
+JOB_E3AEA7BF,Karnataka,Shivajinagar,Electrical & Solar,Wireman Helper,ELE/Q6001,Daily Wage,Low,True,13.5
+JOB_99D9C9A3,Karnataka,Shivajinagar,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Fixed Monthly,Medium,True,23.9
+JOB_A9DD2BF4,Karnataka,Shivajinagar,Electrical & Solar,Wireman Helper,ELE/Q6001,Self-Employment / Enterprise,Medium,True,15.4
+JOB_751A794C,Karnataka,Shivajinagar,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Fixed Monthly,High,True,19.4
+JOB_83EABD46,Karnataka,Shivajinagar,Plumbing & Water Works,Plumber General,PSC/Q0104,Self-Employment / Enterprise,Medium,False,21.8
+JOB_0000E649,Karnataka,Shivajinagar,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Daily Wage,Medium,True,14.3
+JOB_9C36C852,Karnataka,Shivajinagar,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Daily Wage,Medium,False,18.1
+JOB_E6BDE793,Karnataka,Shivajinagar,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,Low,True,12.4
+JOB_79A23DDA,Karnataka,Shivajinagar,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Self-Employment / Enterprise,Low,True,23.0
+JOB_E5B10C71,Karnataka,Shivajinagar,Plumbing & Water Works,Plumber General,PSC/Q0104,Fixed Monthly,Low,False,12.4
+JOB_8318C09D,Karnataka,Shivajinagar,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,Medium,True,17.6
+JOB_4F55C049,Karnataka,Shivajinagar,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Daily Wage,Medium,True,16.6
+JOB_79CB916D,Karnataka,Shivajinagar,Electrical & Solar,Wireman Helper,ELE/Q6001,Daily Wage,Medium,True,19.3
+JOB_1A229DAE,Karnataka,Shivajinagar,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,High,False,11.6
+JOB_279B4DC3,Karnataka,Shivajinagar,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Daily Wage,High,False,23.3
+JOB_0888F455,Karnataka,Shivajinagar,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Fixed Monthly,Medium,True,21.8
+JOB_3E970924,Karnataka,Shivajinagar,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Fixed Monthly,Low,True,16.8
+JOB_A981ECB2,Karnataka,Shivajinagar,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Self-Employment / Enterprise,High,False,17.4
+JOB_FAA7C96E,Karnataka,Shivajinagar,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Daily Wage,Medium,False,21.5
+JOB_72B8A743,Karnataka,Shivajinagar,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Daily Wage,Low,False,9.1
+JOB_CBE6507C,Karnataka,Shivajinagar,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Fixed Monthly,Medium,True,18.7
+JOB_CDD52F1A,Karnataka,Shivajinagar,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Daily Wage,Low,False,9.1
+JOB_16341A97,Karnataka,Shivajinagar,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Self-Employment / Enterprise,Medium,False,22.4
+JOB_49E55B41,Karnataka,Shivajinagar,Plumbing & Water Works,Plumber General,PSC/Q0104,Self-Employment / Enterprise,Low,False,13.5
+JOB_084AE868,Karnataka,Shivajinagar,Electrical & Solar,Wireman Helper,ELE/Q6001,Fixed Monthly,Medium,True,24.3
+JOB_006474C5,Karnataka,Shivajinagar,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Self-Employment / Enterprise,Medium,False,11.4
+JOB_20AC4D52,Maharashtra,Pune,Construction,Assistant Mason,CON/Q0101,Daily Wage,Medium,False,24.7
+JOB_ABA513D2,Maharashtra,Pune,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Self-Employment / Enterprise,High,True,24.5
+JOB_A2FA7692,Maharashtra,Pune,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,Medium,True,24.2
+JOB_3E903B45,Maharashtra,Pune,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Daily Wage,Medium,True,9.8
+JOB_E0417FB6,Maharashtra,Pune,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Self-Employment / Enterprise,High,False,8.8
+JOB_752A22F5,Maharashtra,Pune,Construction,Assistant Mason,CON/Q0101,Daily Wage,Medium,False,18.3
+JOB_D30E1557,Maharashtra,Pune,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,Low,True,15.7
+JOB_9B028C00,Maharashtra,Pune,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Daily Wage,High,True,15.5
+JOB_04294D75,Maharashtra,Pune,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Fixed Monthly,Low,False,10.1
+JOB_FD804165,Maharashtra,Pune,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Fixed Monthly,High,False,24.8
+JOB_030DE4D0,Maharashtra,Pune,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Low,True,12.9
+JOB_51AF7EFB,Maharashtra,Pune,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Daily Wage,Low,False,8.8
+JOB_4248EC2A,Maharashtra,Pune,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Low,True,13.8
+JOB_D401F009,Maharashtra,Pune,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Daily Wage,Medium,False,19.0
+JOB_115C90E9,Maharashtra,Pune,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Self-Employment / Enterprise,High,False,12.1
+JOB_59D1A5C4,Maharashtra,Pune,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Daily Wage,High,True,11.4
+JOB_B6A249E9,Maharashtra,Pune,Plumbing & Water Works,Plumber General,PSC/Q0104,Fixed Monthly,High,True,22.2
+JOB_7548EA54,Maharashtra,Pune,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Daily Wage,High,True,18.2
+JOB_8E699E69,Maharashtra,Pune,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Fixed Monthly,Low,False,24.8
+JOB_4C434880,Maharashtra,Pune,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Self-Employment / Enterprise,Medium,False,23.6
+JOB_6292EF87,Maharashtra,Pune,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,Low,True,11.1
+JOB_529FA698,Maharashtra,Pune,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,High,False,18.4
+JOB_20A38173,Maharashtra,Pune,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Self-Employment / Enterprise,High,True,23.7
+JOB_1F19B16C,Maharashtra,Pune,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Fixed Monthly,Medium,True,15.4
+JOB_8F19C36D,Maharashtra,Pune,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Self-Employment / Enterprise,Medium,False,23.1
+JOB_08086220,Maharashtra,Pune,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Fixed Monthly,High,True,13.0
+JOB_0FC08916,Maharashtra,Pune,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Self-Employment / Enterprise,Low,False,20.9
+JOB_CE712599,Maharashtra,Pune,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Daily Wage,Low,True,11.2
+JOB_CDAB3597,Maharashtra,Pune,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Daily Wage,Medium,False,12.3
+JOB_69597B98,Maharashtra,Pune,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Fixed Monthly,Medium,False,17.2
+JOB_F3FF1272,Maharashtra,Nagpur,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Self-Employment / Enterprise,Medium,False,12.9
+JOB_1AF52387,Maharashtra,Nagpur,Electrical & Solar,Wireman Helper,ELE/Q6001,Daily Wage,Low,True,21.9
+JOB_25A0D378,Maharashtra,Nagpur,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Daily Wage,Low,False,14.5
+JOB_62AA4491,Maharashtra,Nagpur,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Self-Employment / Enterprise,High,False,16.3
+JOB_930BC03A,Maharashtra,Nagpur,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Fixed Monthly,Medium,False,22.3
+JOB_3508895F,Maharashtra,Nagpur,Plumbing & Water Works,Plumber General,PSC/Q0104,Fixed Monthly,Medium,False,13.9
+JOB_42E52FE8,Maharashtra,Nagpur,Construction,Assistant Mason,CON/Q0101,Fixed Monthly,Medium,False,8.7
+JOB_9F480509,Maharashtra,Nagpur,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Fixed Monthly,Medium,False,9.9
+JOB_46D56BF1,Maharashtra,Nagpur,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Daily Wage,Medium,True,19.9
+JOB_69A0FC58,Maharashtra,Nagpur,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,Medium,False,9.9
+JOB_B730E8FE,Maharashtra,Nagpur,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Fixed Monthly,Medium,False,20.9
+JOB_5CD35126,Maharashtra,Nagpur,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,Medium,True,21.0
+JOB_A4C562E0,Maharashtra,Nagpur,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Daily Wage,Low,False,23.2
+JOB_3ED878D6,Maharashtra,Nagpur,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Daily Wage,Medium,True,13.8
+JOB_B317F13E,Maharashtra,Nagpur,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Self-Employment / Enterprise,Medium,True,14.5
+JOB_C0A46364,Maharashtra,Nagpur,Plumbing & Water Works,Plumber General,PSC/Q0104,Daily Wage,Medium,True,23.3
+JOB_E8E3A46B,Maharashtra,Nagpur,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,High,True,12.6
+JOB_C8849D96,Maharashtra,Nagpur,Plumbing & Water Works,Plumber General,PSC/Q0104,Fixed Monthly,Medium,False,13.0
+JOB_22B88939,Maharashtra,Nagpur,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Daily Wage,Medium,True,13.7
+JOB_96122E0E,Maharashtra,Nagpur,Construction,Assistant Mason,CON/Q0101,Self-Employment / Enterprise,Low,True,12.3
+JOB_A98D720A,Maharashtra,Nagpur,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,Medium,False,13.5
+JOB_C4FD80BB,Maharashtra,Nagpur,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Daily Wage,Low,False,11.4
+JOB_238AB600,Maharashtra,Nagpur,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Self-Employment / Enterprise,High,False,14.3
+JOB_AD75C2B2,Maharashtra,Nagpur,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Daily Wage,Low,True,23.9
+JOB_289B6370,Maharashtra,Nagpur,Electrical & Solar,Wireman Helper,ELE/Q6001,Daily Wage,Medium,False,11.6
+JOB_4E25E601,Maharashtra,Nagpur,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Fixed Monthly,Low,False,24.0
+JOB_925AE021,Maharashtra,Thane,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Medium,False,16.3
+JOB_F735B14C,Maharashtra,Thane,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,Low,True,21.9
+JOB_89E904A7,Maharashtra,Thane,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Daily Wage,High,False,15.3
+JOB_A8721C62,Maharashtra,Thane,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Fixed Monthly,Medium,False,17.6
+JOB_30B0D310,Maharashtra,Thane,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Fixed Monthly,High,False,19.5
+JOB_5705A928,Maharashtra,Thane,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Fixed Monthly,Medium,True,9.4
+JOB_C5AE0A2B,Maharashtra,Thane,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Low,True,20.8
+JOB_0AC94AF4,Maharashtra,Thane,Construction,Assistant Mason,CON/Q0101,Daily Wage,Medium,False,11.0
+JOB_F06761DE,Maharashtra,Thane,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Fixed Monthly,Medium,True,12.3
+JOB_E1654266,Maharashtra,Thane,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Self-Employment / Enterprise,Medium,False,13.6
+JOB_2C4310F0,Maharashtra,Thane,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,High,False,8.2
+JOB_58597B48,Maharashtra,Thane,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Self-Employment / Enterprise,Low,False,21.5
+JOB_B1F3EB54,Maharashtra,Thane,Electrical & Solar,Wireman Helper,ELE/Q6001,Daily Wage,Medium,True,15.9
+JOB_B930F267,Maharashtra,Thane,Electrical & Solar,Wireman Helper,ELE/Q6001,Self-Employment / Enterprise,High,False,10.0
+JOB_77A77EC8,Maharashtra,Thane,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Self-Employment / Enterprise,Medium,True,12.8
+JOB_FB157380,Maharashtra,Thane,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Fixed Monthly,Medium,False,15.1
+JOB_EB9DACFE,Maharashtra,Nashik,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,High,False,12.0
+JOB_3113C26C,Maharashtra,Nashik,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Daily Wage,Medium,False,16.5
+JOB_5F37E7AD,Maharashtra,Nashik,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Fixed Monthly,High,False,22.3
+JOB_7D19FC02,Maharashtra,Nashik,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Fixed Monthly,Medium,True,19.5
+JOB_4A98AEC9,Maharashtra,Nashik,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Daily Wage,Medium,False,14.5
+JOB_FF3EFCC7,Maharashtra,Nashik,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Fixed Monthly,Low,False,12.7
+JOB_ACF5D426,Maharashtra,Nashik,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Self-Employment / Enterprise,High,True,14.3
+JOB_EDE90725,Maharashtra,Nashik,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Self-Employment / Enterprise,Medium,True,13.6
+JOB_16BA899D,Maharashtra,Nashik,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Fixed Monthly,Medium,True,24.1
+JOB_D463D6BB,Maharashtra,Nashik,Construction,Assistant Mason,CON/Q0101,Daily Wage,Medium,True,18.8
+JOB_E1A8A91D,Maharashtra,Nashik,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Fixed Monthly,Low,False,20.0
+JOB_07D8E718,Maharashtra,Nashik,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Daily Wage,Medium,True,16.8
+JOB_E03E8D5D,Maharashtra,Nashik,Electrical & Solar,Wireman Helper,ELE/Q6001,Daily Wage,Medium,False,15.1
+JOB_39112A05,Maharashtra,Nashik,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,Low,False,13.0
+JOB_F597E0D0,Maharashtra,Nashik,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Self-Employment / Enterprise,Medium,False,24.7
+JOB_1F681D92,Maharashtra,Nashik,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Daily Wage,Medium,True,23.9
+JOB_28596CC1,Maharashtra,Nashik,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Fixed Monthly,High,False,11.3
+JOB_79E10B9C,Maharashtra,Nashik,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Self-Employment / Enterprise,High,True,24.4
+JOB_710229CA,Maharashtra,Nashik,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Daily Wage,Medium,True,13.4
+JOB_27D351D1,Maharashtra,Nashik,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Self-Employment / Enterprise,Medium,True,14.5
+JOB_C58BCFA7,Maharashtra,Nashik,Plumbing & Water Works,Plumber General,PSC/Q0104,Daily Wage,Medium,False,8.4
+JOB_34B658F9,Maharashtra,Nashik,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Daily Wage,Medium,True,13.3
+JOB_EF534676,Maharashtra,Nashik,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Self-Employment / Enterprise,Low,False,19.4
+JOB_7892F581,Maharashtra,Nashik,Electrical & Solar,Wireman Helper,ELE/Q6001,Fixed Monthly,Medium,True,13.0
+JOB_DCA5C865,Maharashtra,Aurangabad,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Daily Wage,Medium,True,19.1
+JOB_9AB76518,Maharashtra,Aurangabad,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Fixed Monthly,High,True,11.1
+JOB_25F5E296,Maharashtra,Aurangabad,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Fixed Monthly,High,False,19.7
+JOB_3CE95EF7,Maharashtra,Aurangabad,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,Low,True,11.9
+JOB_E23103C3,Maharashtra,Aurangabad,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Self-Employment / Enterprise,High,True,24.6
+JOB_4D747E9F,Maharashtra,Aurangabad,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Self-Employment / Enterprise,Medium,True,12.8
+JOB_0919EAF5,Maharashtra,Aurangabad,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,Low,True,10.4
+JOB_F68EA291,Maharashtra,Aurangabad,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,Medium,True,8.0
+JOB_1B90A420,Maharashtra,Aurangabad,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Daily Wage,Medium,False,18.7
+JOB_85374077,Maharashtra,Aurangabad,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Daily Wage,Medium,True,17.0
+JOB_21AB57C5,Maharashtra,Aurangabad,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Daily Wage,Medium,False,8.3
+JOB_F2C6EA6E,Maharashtra,Aurangabad,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Fixed Monthly,Medium,True,12.8
+JOB_D8E84190,Maharashtra,Aurangabad,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Daily Wage,High,False,23.9
+JOB_12A50488,Maharashtra,Aurangabad,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Daily Wage,Low,True,14.1
+JOB_2BCC4168,Maharashtra,Aurangabad,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Self-Employment / Enterprise,Medium,False,17.2
+JOB_F2EA6528,Maharashtra,Aurangabad,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Daily Wage,High,True,16.8
+JOB_89A4B921,Maharashtra,Aurangabad,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Self-Employment / Enterprise,High,False,8.2
+JOB_92B6AF12,Maharashtra,Aurangabad,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Self-Employment / Enterprise,High,False,9.3
+JOB_AE5C08E7,Maharashtra,Aurangabad,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Fixed Monthly,Medium,False,21.5
+JOB_57A37693,Maharashtra,Aurangabad,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Self-Employment / Enterprise,Medium,False,20.3
+JOB_D690D1AF,Maharashtra,Aurangabad,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Daily Wage,Medium,True,15.8
+JOB_A3CB3F86,Maharashtra,Aurangabad,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Fixed Monthly,Medium,False,18.0
+JOB_4F848EA3,Maharashtra,Aurangabad,Construction,Assistant Mason,CON/Q0101,Daily Wage,Medium,True,19.5
+JOB_191F9527,Maharashtra,Aurangabad,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Daily Wage,Medium,True,24.6
+JOB_4BBEFEE5,Uttar Pradesh,Lucknow,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,Low,True,8.2
+JOB_8C6605CE,Uttar Pradesh,Lucknow,Plumbing & Water Works,Plumber General,PSC/Q0104,Daily Wage,High,False,19.1
+JOB_A2E4EDBC,Uttar Pradesh,Lucknow,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Daily Wage,Low,True,17.6
+JOB_24C5B70F,Uttar Pradesh,Lucknow,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Daily Wage,Medium,False,22.5
+JOB_9E423598,Uttar Pradesh,Lucknow,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Daily Wage,Medium,True,22.7
+JOB_D885107B,Uttar Pradesh,Lucknow,Plumbing & Water Works,Plumber General,PSC/Q0104,Self-Employment / Enterprise,Low,True,21.0
+JOB_67FD6826,Uttar Pradesh,Lucknow,Plumbing & Water Works,Plumber General,PSC/Q0104,Self-Employment / Enterprise,Medium,False,19.3
+JOB_589AF186,Uttar Pradesh,Lucknow,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Daily Wage,Medium,False,18.5
+JOB_15E7AE53,Uttar Pradesh,Lucknow,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Fixed Monthly,Medium,True,11.2
+JOB_77CCAF41,Uttar Pradesh,Lucknow,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Self-Employment / Enterprise,High,False,19.8
+JOB_DF52D6CF,Uttar Pradesh,Lucknow,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Self-Employment / Enterprise,High,True,17.6
+JOB_0C707C48,Uttar Pradesh,Lucknow,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,Medium,False,18.6
+JOB_55C60ACA,Uttar Pradesh,Lucknow,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,Medium,False,24.9
+JOB_FB79B733,Uttar Pradesh,Lucknow,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Medium,False,24.3
+JOB_D15FF6B2,Uttar Pradesh,Lucknow,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Fixed Monthly,Low,False,16.4
+JOB_02496D87,Uttar Pradesh,Lucknow,Construction,Assistant Mason,CON/Q0101,Daily Wage,Medium,True,16.5
+JOB_FFEEE29E,Uttar Pradesh,Lucknow,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Daily Wage,High,True,20.0
+JOB_19955663,Uttar Pradesh,Lucknow,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Self-Employment / Enterprise,Medium,False,22.9
+JOB_854DD566,Uttar Pradesh,Lucknow,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Self-Employment / Enterprise,Low,False,15.3
+JOB_0A8DDBC5,Uttar Pradesh,Lucknow,Construction,Assistant Mason,CON/Q0101,Self-Employment / Enterprise,Medium,True,20.5
+JOB_B330CB33,Uttar Pradesh,Lucknow,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Daily Wage,High,False,14.7
+JOB_0DFEF434,Uttar Pradesh,Lucknow,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Fixed Monthly,Medium,False,16.6
+JOB_2E08C70B,Uttar Pradesh,Lucknow,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Daily Wage,Medium,False,24.7
+JOB_756100C2,Uttar Pradesh,Kanpur,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Self-Employment / Enterprise,Medium,True,24.7
+JOB_955E3654,Uttar Pradesh,Kanpur,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Fixed Monthly,Medium,False,20.8
+JOB_6117D3BC,Uttar Pradesh,Kanpur,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Self-Employment / Enterprise,Medium,False,12.4
+JOB_4A344A74,Uttar Pradesh,Kanpur,Electrical & Solar,Wireman Helper,ELE/Q6001,Fixed Monthly,Low,True,19.5
+JOB_B811FCBD,Uttar Pradesh,Kanpur,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Self-Employment / Enterprise,High,False,9.6
+JOB_E98EEC70,Uttar Pradesh,Kanpur,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Daily Wage,High,False,18.8
+JOB_A89AE5BC,Uttar Pradesh,Kanpur,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Self-Employment / Enterprise,Medium,True,15.1
+JOB_380D8108,Uttar Pradesh,Kanpur,Construction,Assistant Mason,CON/Q0101,Daily Wage,Medium,True,23.8
+JOB_59F622BA,Uttar Pradesh,Kanpur,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Medium,True,21.6
+JOB_EF77E5CA,Uttar Pradesh,Kanpur,Construction,Assistant Mason,CON/Q0101,Self-Employment / Enterprise,Medium,True,9.4
+JOB_9EDD1739,Uttar Pradesh,Kanpur,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Fixed Monthly,High,False,15.0
+JOB_E8BC75C1,Uttar Pradesh,Kanpur,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Daily Wage,High,True,8.9
+JOB_31FF1940,Uttar Pradesh,Kanpur,Construction,Assistant Mason,CON/Q0101,Self-Employment / Enterprise,High,False,9.3
+JOB_06067EAD,Uttar Pradesh,Kanpur,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Daily Wage,Medium,True,18.5
+JOB_C596D098,Uttar Pradesh,Kanpur,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Self-Employment / Enterprise,Medium,True,8.5
+JOB_EF53A3E8,Uttar Pradesh,Kanpur,Plumbing & Water Works,Plumber General,PSC/Q0104,Self-Employment / Enterprise,Medium,False,22.8
+JOB_4437EB1C,Uttar Pradesh,Kanpur,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Self-Employment / Enterprise,Medium,False,21.8
+JOB_AD8CD68D,Uttar Pradesh,Kanpur,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Fixed Monthly,Medium,True,8.2
+JOB_F2F79508,Uttar Pradesh,Kanpur,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Fixed Monthly,Medium,True,14.2
+JOB_F1D9CB11,Uttar Pradesh,Kanpur,Plumbing & Water Works,Plumber General,PSC/Q0104,Daily Wage,Medium,False,16.2
+JOB_8F4427A1,Uttar Pradesh,Varanasi,Construction,Assistant Mason,CON/Q0101,Daily Wage,High,False,19.9
+JOB_3E8CC1A3,Uttar Pradesh,Varanasi,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Daily Wage,Medium,False,17.7
+JOB_9FE52133,Uttar Pradesh,Varanasi,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Self-Employment / Enterprise,Medium,True,14.0
+JOB_AEAADECE,Uttar Pradesh,Varanasi,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Self-Employment / Enterprise,Low,True,24.9
+JOB_54EEECBB,Uttar Pradesh,Varanasi,Electrical & Solar,Wireman Helper,ELE/Q6001,Daily Wage,Medium,False,22.9
+JOB_56626146,Uttar Pradesh,Varanasi,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Fixed Monthly,High,True,10.6
+JOB_01C64BBE,Uttar Pradesh,Varanasi,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Fixed Monthly,High,True,17.3
+JOB_472B0EF1,Uttar Pradesh,Varanasi,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,Medium,False,13.5
+JOB_EAFF4A52,Uttar Pradesh,Varanasi,Construction,Assistant Mason,CON/Q0101,Daily Wage,High,False,21.7
+JOB_C3BD8000,Uttar Pradesh,Varanasi,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Daily Wage,Low,True,20.1
+JOB_658FDECE,Uttar Pradesh,Varanasi,Construction,Assistant Mason,CON/Q0101,Daily Wage,Medium,False,14.2
+JOB_0E537488,Uttar Pradesh,Varanasi,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Daily Wage,High,True,19.3
+JOB_91E335C0,Uttar Pradesh,Varanasi,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,High,False,15.1
+JOB_824F4A27,Uttar Pradesh,Varanasi,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Self-Employment / Enterprise,Medium,True,10.1
+JOB_8A124772,Uttar Pradesh,Varanasi,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Low,False,23.3
+JOB_E490D2A9,Uttar Pradesh,Varanasi,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Daily Wage,Medium,False,14.1
+JOB_C4F5D34C,Uttar Pradesh,Varanasi,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Daily Wage,Low,False,16.5
+JOB_19858DF8,Uttar Pradesh,Varanasi,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Fixed Monthly,High,True,20.2
+JOB_0C9FBE20,Uttar Pradesh,Varanasi,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,High,False,14.6
+JOB_7F917EB6,Uttar Pradesh,Varanasi,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Self-Employment / Enterprise,High,True,12.8
+JOB_998D6C57,Uttar Pradesh,Varanasi,Plumbing & Water Works,Plumber General,PSC/Q0104,Self-Employment / Enterprise,Medium,False,14.9
+JOB_348DC4EA,Uttar Pradesh,Agra,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Self-Employment / Enterprise,High,False,14.8
+JOB_D47F515C,Uttar Pradesh,Agra,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Fixed Monthly,Medium,False,17.5
+JOB_972AD74C,Uttar Pradesh,Agra,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Fixed Monthly,Medium,False,21.9
+JOB_7F7C0FCA,Uttar Pradesh,Agra,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Daily Wage,High,False,24.7
+JOB_756AD43E,Uttar Pradesh,Agra,Electrical & Solar,Wireman Helper,ELE/Q6001,Self-Employment / Enterprise,Medium,True,13.7
+JOB_25AFCA48,Uttar Pradesh,Agra,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Daily Wage,Medium,True,11.1
+JOB_641B50F8,Uttar Pradesh,Agra,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Self-Employment / Enterprise,Medium,True,16.7
+JOB_9C3D8D1A,Uttar Pradesh,Agra,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Self-Employment / Enterprise,Medium,False,13.1
+JOB_98DEA695,Uttar Pradesh,Agra,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Self-Employment / Enterprise,Medium,True,15.0
+JOB_9567D150,Uttar Pradesh,Agra,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Daily Wage,Medium,False,16.7
+JOB_2D05D72A,Uttar Pradesh,Agra,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Self-Employment / Enterprise,Medium,False,22.0
+JOB_89AC296C,Uttar Pradesh,Agra,Plumbing & Water Works,Plumber General,PSC/Q0104,Self-Employment / Enterprise,Medium,True,13.2
+JOB_B82E25F6,Uttar Pradesh,Agra,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Self-Employment / Enterprise,Low,False,16.8
+JOB_A1F93812,Uttar Pradesh,Agra,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Self-Employment / Enterprise,Medium,True,8.9
+JOB_92EE0951,Uttar Pradesh,Agra,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,High,False,13.8
+JOB_DC45770E,Uttar Pradesh,Agra,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Fixed Monthly,High,True,11.1
+JOB_1B081269,Uttar Pradesh,Agra,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,High,True,15.4
+JOB_31F3CA1F,Uttar Pradesh,Agra,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Medium,True,19.2
+JOB_942F2945,Uttar Pradesh,Agra,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,Medium,False,18.7
+JOB_8398B387,Uttar Pradesh,Agra,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Self-Employment / Enterprise,Low,False,20.6
+JOB_3838E9D2,Uttar Pradesh,Agra,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Fixed Monthly,Medium,True,24.5
+JOB_F72322FC,Uttar Pradesh,Agra,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Fixed Monthly,High,True,10.3
+JOB_F4963EB9,Uttar Pradesh,Agra,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,Low,False,16.8
+JOB_8A268C89,Uttar Pradesh,Agra,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Fixed Monthly,Medium,True,13.7
+JOB_E1ED2A01,Uttar Pradesh,Agra,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Self-Employment / Enterprise,Medium,False,20.6
+JOB_62CAEAC7,Uttar Pradesh,Agra,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Self-Employment / Enterprise,Medium,False,22.3
+JOB_DF943C20,Uttar Pradesh,Agra,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Self-Employment / Enterprise,Medium,True,21.0
+JOB_AAD9CEFD,Uttar Pradesh,Agra,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Fixed Monthly,Low,True,10.9
+JOB_10FD65CE,Uttar Pradesh,Meerut,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Self-Employment / Enterprise,Low,True,19.4
+JOB_FB3F617D,Uttar Pradesh,Meerut,Electrical & Solar,Wireman Helper,ELE/Q6001,Fixed Monthly,High,True,20.7
+JOB_038C4969,Uttar Pradesh,Meerut,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,High,True,20.1
+JOB_9D58C021,Uttar Pradesh,Meerut,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Fixed Monthly,Low,False,9.4
+JOB_8FEC7A11,Uttar Pradesh,Meerut,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Self-Employment / Enterprise,High,False,12.0
+JOB_8B47043B,Uttar Pradesh,Meerut,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Fixed Monthly,Low,False,16.4
+JOB_4103B8DE,Uttar Pradesh,Meerut,Construction,Assistant Mason,CON/Q0101,Daily Wage,Medium,True,24.0
+JOB_0F6D2D72,Uttar Pradesh,Meerut,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Fixed Monthly,High,True,8.7
+JOB_0D37F7CB,Uttar Pradesh,Meerut,Electrical & Solar,Wireman Helper,ELE/Q6001,Fixed Monthly,Medium,False,21.8
+JOB_4C11E5CD,Uttar Pradesh,Meerut,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Fixed Monthly,High,True,8.7
+JOB_7A9E1E84,Uttar Pradesh,Meerut,Plumbing & Water Works,Plumber General,PSC/Q0104,Daily Wage,Medium,True,8.4
+JOB_4278D5EE,Uttar Pradesh,Meerut,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Daily Wage,High,False,16.8
+JOB_B06EFDD3,Uttar Pradesh,Meerut,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Self-Employment / Enterprise,Medium,True,21.5
+JOB_F4E8C22D,Uttar Pradesh,Meerut,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Fixed Monthly,Medium,False,13.7
+JOB_3E903FF1,Uttar Pradesh,Meerut,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Self-Employment / Enterprise,High,True,22.2
+JOB_63BDD185,Tamil Nadu,Chennai,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Self-Employment / Enterprise,Medium,False,19.8
+JOB_003AB957,Tamil Nadu,Chennai,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Self-Employment / Enterprise,Medium,True,16.4
+JOB_FB079581,Tamil Nadu,Chennai,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Daily Wage,Medium,False,9.8
+JOB_08B4E255,Tamil Nadu,Chennai,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Self-Employment / Enterprise,Medium,True,23.0
+JOB_CCB49566,Tamil Nadu,Chennai,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,Medium,False,23.9
+JOB_E5C48663,Tamil Nadu,Chennai,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,High,False,12.5
+JOB_70487061,Tamil Nadu,Chennai,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Self-Employment / Enterprise,Medium,False,24.0
+JOB_F1B1DF5E,Tamil Nadu,Chennai,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Fixed Monthly,High,False,18.6
+JOB_3E44B752,Tamil Nadu,Chennai,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Self-Employment / Enterprise,Medium,False,17.9
+JOB_CDF0AADD,Tamil Nadu,Chennai,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Daily Wage,High,True,12.2
+JOB_6B50DB5F,Tamil Nadu,Chennai,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Self-Employment / Enterprise,High,True,21.5
+JOB_7B05C574,Tamil Nadu,Chennai,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Daily Wage,Medium,True,8.4
+JOB_2DCCB36D,Tamil Nadu,Chennai,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,Medium,False,19.9
+JOB_00F4C674,Tamil Nadu,Chennai,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Daily Wage,Low,False,20.7
+JOB_9DFAFA22,Tamil Nadu,Chennai,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Fixed Monthly,Medium,False,23.9
+JOB_CB974D2E,Tamil Nadu,Coimbatore,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Daily Wage,High,True,21.5
+JOB_11531409,Tamil Nadu,Coimbatore,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Daily Wage,Medium,True,8.4
+JOB_00D53C31,Tamil Nadu,Coimbatore,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Daily Wage,Low,False,9.8
+JOB_F8E9DC24,Tamil Nadu,Coimbatore,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,Medium,True,22.9
+JOB_339D04B0,Tamil Nadu,Coimbatore,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Daily Wage,Medium,True,15.6
+JOB_89F00560,Tamil Nadu,Coimbatore,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Daily Wage,Medium,False,19.7
+JOB_E03F2889,Tamil Nadu,Coimbatore,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Self-Employment / Enterprise,High,False,21.0
+JOB_F294F373,Tamil Nadu,Coimbatore,Electrical & Solar,Wireman Helper,ELE/Q6001,Fixed Monthly,Medium,True,16.2
+JOB_C5A38ED8,Tamil Nadu,Coimbatore,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Daily Wage,Medium,False,22.4
+JOB_F6A3DF1E,Tamil Nadu,Coimbatore,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Self-Employment / Enterprise,Medium,False,14.6
+JOB_AA40C8A5,Tamil Nadu,Coimbatore,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Daily Wage,Medium,False,12.9
+JOB_119DAD14,Tamil Nadu,Coimbatore,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Self-Employment / Enterprise,Medium,False,11.4
+JOB_DBA2128E,Tamil Nadu,Coimbatore,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Self-Employment / Enterprise,Medium,False,11.3
+JOB_0780B24D,Tamil Nadu,Coimbatore,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Fixed Monthly,Medium,False,17.6
+JOB_0EB5EFED,Tamil Nadu,Coimbatore,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Daily Wage,High,True,16.1
+JOB_D3717055,Tamil Nadu,Coimbatore,Construction,Assistant Mason,CON/Q0101,Fixed Monthly,Medium,True,8.4
+JOB_8DAEE935,Tamil Nadu,Coimbatore,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,Medium,False,24.4
+JOB_EA603537,Tamil Nadu,Coimbatore,Plumbing & Water Works,Plumber General,PSC/Q0104,Daily Wage,Low,False,12.7
+JOB_7FB559E7,Tamil Nadu,Coimbatore,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Self-Employment / Enterprise,High,True,20.2
+JOB_AAFA300E,Tamil Nadu,Coimbatore,Electrical & Solar,Wireman Helper,ELE/Q6001,Self-Employment / Enterprise,Medium,True,21.4
+JOB_10C8936E,Tamil Nadu,Madurai,Electrical & Solar,Wireman Helper,ELE/Q6001,Daily Wage,Medium,True,21.0
+JOB_29712B3F,Tamil Nadu,Madurai,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Fixed Monthly,High,True,10.4
+JOB_1E801BE0,Tamil Nadu,Madurai,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Self-Employment / Enterprise,High,False,24.3
+JOB_733FBF30,Tamil Nadu,Madurai,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Fixed Monthly,High,False,20.0
+JOB_EAEC8D29,Tamil Nadu,Madurai,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Daily Wage,High,True,8.5
+JOB_C2852BE7,Tamil Nadu,Madurai,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Self-Employment / Enterprise,High,False,15.9
+JOB_0C4E420F,Tamil Nadu,Madurai,Construction,Assistant Mason,CON/Q0101,Daily Wage,Low,True,17.1
+JOB_A76FEFEE,Tamil Nadu,Madurai,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Self-Employment / Enterprise,Low,True,18.2
+JOB_35E3FA76,Tamil Nadu,Madurai,Construction,Assistant Mason,CON/Q0101,Daily Wage,Medium,False,24.3
+JOB_6D45571E,Tamil Nadu,Madurai,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Daily Wage,Medium,False,10.6
+JOB_703846BD,Tamil Nadu,Madurai,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,High,True,18.1
+JOB_F5FDF166,Tamil Nadu,Madurai,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,Medium,True,24.2
+JOB_7B6EB5CE,Tamil Nadu,Madurai,Plumbing & Water Works,Plumber General,PSC/Q0104,Fixed Monthly,High,True,13.1
+JOB_1F209EA8,Tamil Nadu,Madurai,Electrical & Solar,Wireman Helper,ELE/Q6001,Fixed Monthly,Low,False,10.2
+JOB_98F4D9D6,Tamil Nadu,Madurai,Artisan & Carpentry,Shuttering Carpenter,CON/Q0301,Self-Employment / Enterprise,High,False,16.2
+JOB_ED2AD2B7,Tamil Nadu,Madurai,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Daily Wage,High,True,8.7
+JOB_E3FB4599,Tamil Nadu,Madurai,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Daily Wage,Medium,True,23.8
+JOB_F726B58B,Tamil Nadu,Salem,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,High,True,12.9
+JOB_C9DDA730,Tamil Nadu,Salem,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Daily Wage,Medium,False,14.3
+JOB_109A93FB,Tamil Nadu,Salem,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Daily Wage,Medium,False,20.2
+JOB_91850D9F,Tamil Nadu,Salem,Plumbing & Water Works,Plumber General,PSC/Q0104,Self-Employment / Enterprise,Medium,True,23.5
+JOB_E5FAAF77,Tamil Nadu,Salem,Construction,Assistant Mason,CON/Q0101,Self-Employment / Enterprise,High,False,13.1
+JOB_0F7BBA88,Tamil Nadu,Salem,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Medium,True,8.3
+JOB_D8EE6797,Tamil Nadu,Salem,Plumbing & Water Works,Plumber General,PSC/Q0104,Daily Wage,Medium,True,17.8
+JOB_EE051337,Tamil Nadu,Salem,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Fixed Monthly,Low,True,8.4
+JOB_91911B29,Tamil Nadu,Salem,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Daily Wage,Low,False,18.2
+JOB_51BE224B,Tamil Nadu,Salem,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Fixed Monthly,Medium,False,18.9
+JOB_932432BD,Tamil Nadu,Salem,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Self-Employment / Enterprise,High,False,24.4
+JOB_C390E755,Tamil Nadu,Salem,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Daily Wage,Medium,False,18.4
+JOB_A53C7C5C,Tamil Nadu,Salem,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Daily Wage,Medium,False,10.0
+JOB_CDB8B8F0,Tamil Nadu,Salem,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Medium,False,8.2
+JOB_58456AD6,Tamil Nadu,Salem,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Self-Employment / Enterprise,Medium,False,19.0
+JOB_E53ACF3A,Tamil Nadu,Salem,Artisan & Carpentry,Assistant Carpenter,CON/Q0102,Fixed Monthly,High,True,9.0
+JOB_DC035963,Tamil Nadu,Salem,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Fixed Monthly,Medium,True,10.3
+JOB_C543E29F,Tamil Nadu,Salem,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Fixed Monthly,Medium,False,18.8
+JOB_483E4F8F,Tamil Nadu,Salem,Agriculture & Dairy,Dairy Farmer & Animal Husbandry Assistant,AGR/Q4101,Fixed Monthly,Medium,True,13.9
+JOB_AD57B681,Tamil Nadu,Salem,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Self-Employment / Enterprise,High,True,20.1
+JOB_4212AC14,Tamil Nadu,Salem,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Daily Wage,Medium,False,10.1
+JOB_CFF51D28,Tamil Nadu,Salem,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Self-Employment / Enterprise,Medium,True,10.2
+JOB_990E95CC,Tamil Nadu,Salem,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Self-Employment / Enterprise,Medium,True,10.3
+JOB_DC9646B7,Tamil Nadu,Salem,Electrical & Solar,Home Appliance Service Technician,ELE/Q3104,Fixed Monthly,Medium,False,21.9
+JOB_27D4D743,Tamil Nadu,Salem,Garments & Tailoring,Self-Employed Tailor,AMH/Q1947,Daily Wage,High,False,16.9
+JOB_00B9011D,Tamil Nadu,Salem,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,Medium,True,14.5
+JOB_3A450F11,Tamil Nadu,Tiruchirappalli,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Self-Employment / Enterprise,High,False,10.0
+JOB_D34E76A1,Tamil Nadu,Tiruchirappalli,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Daily Wage,High,False,18.1
+JOB_C278ED3A,Tamil Nadu,Tiruchirappalli,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Daily Wage,Medium,False,13.1
+JOB_7BB26EB2,Tamil Nadu,Tiruchirappalli,Electrical & Solar,Wireman Helper,ELE/Q6001,Daily Wage,Low,False,12.5
+JOB_A4A8DFDF,Tamil Nadu,Tiruchirappalli,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Fixed Monthly,Low,False,10.9
+JOB_031E5E18,Tamil Nadu,Tiruchirappalli,Electrical & Solar,Solar PV Installation Helper,SGJ/Q0102,Fixed Monthly,High,True,18.8
+JOB_B39989F1,Tamil Nadu,Tiruchirappalli,Automotive & Mechanical,Two-Wheeler Service Assistant,ASC/Q1411,Fixed Monthly,High,False,8.9
+JOB_29F6DDDF,Tamil Nadu,Tiruchirappalli,Electrical & Solar,Wireman Helper,ELE/Q6001,Self-Employment / Enterprise,Low,False,23.8
+JOB_D2D6B9E3,Tamil Nadu,Tiruchirappalli,Beauty & Wellness,Assistant Beauty Therapist / Barber,BWS/Q0101,Daily Wage,Medium,True,10.7
+JOB_FE053C04,Tamil Nadu,Tiruchirappalli,Garments & Tailoring,Industrial Sewing Machine Operator,AMH/Q0301,Daily Wage,High,False,8.4
+JOB_D2F8FD07,Tamil Nadu,Tiruchirappalli,Electrical & Solar,Wireman Helper,ELE/Q6001,Fixed Monthly,High,True,14.4
+JOB_736F4CFF,Tamil Nadu,Tiruchirappalli,Plumbing & Water Works,Borewell Assistant & Submersible Pump Tech,PSC/Q0112,Fixed Monthly,High,True,17.0
+JOB_3BC9DFD7,Tamil Nadu,Tiruchirappalli,Electrical & Solar,Wireman Helper,ELE/Q6001,Fixed Monthly,Medium,False,12.8
+JOB_0B8AC5A7,Tamil Nadu,Tiruchirappalli,Handicrafts & Leather,Handloom Weaver,HCS/Q5401,Self-Employment / Enterprise,Medium,True,18.8
+JOB_B7DB6E95,Tamil Nadu,Tiruchirappalli,Handicrafts & Leather,Leather Goods Maker / Footwear Repairer,LSS/Q2501,Self-Employment / Enterprise,High,True,19.2
